@@ -42,8 +42,17 @@ This Frappe app contains two Doctypes: `Task` and `Project`, under the module `C
 
 Here is a screen recording of the report:
 
-![Report Screen Recording](![Screencastfrom07-20-2024044850PM-ezgif com-optimize](https://github.com/user-attachments/assets/e4abeb3e-3f99-483e-bceb-af2ed2dd2ac8)
+![Report Screen Recording](![Screencastfrom07-20-2024044850PM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/c2bd0c7f-8036-4588-884a-59a9d0b4e78b)
 )
+
+
+![Report Screen Recording](![Screencastfrom07-20-2024044850PM-ezgif com-video-to-gif-converter(1)](https://github.com/user-attachments/assets/682ee3bc-d2d7-442b-87ad-ead90387becb)
+)
+
+
+![Report Screen Recording](![Screencastfrom07-20-2024044850PM-ezgif com-video-to-gif-converter(2)](https://github.com/user-attachments/assets/203d7573-f087-4de7-9052-8fb3657f94ac)
+)
+
 
 ## Installation
 
